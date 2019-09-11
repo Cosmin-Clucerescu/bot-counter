@@ -6,6 +6,7 @@
   "dependencies": {
     "bufferutil": "^4.0.0",
     "discord.js": "^11.3.2",
+    "global-agent": "^2.0.2",
     "mathjs": "^5.0.1",
     "properties-reader": "^0.0.16"
   },
